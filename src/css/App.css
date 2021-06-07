@@ -21,3 +21,7 @@ h5 {
 hr {
   margin: .5rem 0;
 }
+
+.App {
+  background-color: #333;
+}
