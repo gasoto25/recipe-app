@@ -1,0 +1,33 @@
+.recipe {
+	padding: 10px;
+	margin-bottom: 10px;
+}
+.recipe-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.recipe-header h3 {
+	font-size: 36px;
+	margin: 0;
+}
+
+.btn-container {
+	width: 30%;
+	display: inline-flex;
+	align-items: center;
+}
+
+.recipe-row {
+}
+
+.recipe-label {
+  margin-right: 5px;
+}
+.recipe-instructions{
+  white-space: pre-wrap;
+}
+.recipe-value {
+  font-weight: 300
+}

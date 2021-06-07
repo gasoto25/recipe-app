@@ -1,0 +1,23 @@
+@import-normalize;
+@import 'receipe-list.css';
+@import 'receipe.css';
+@import 'recipe-edit.css';
+@import 'button.css';
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font-family: 'Staatliches', cursive;
+}
+.ingredient-start {
+  font-weight: 400;
+}
+*, *::before, *::after {
+  font-family: 'Lato', sans-serif;
+}
+
+hr {
+  margin: .5rem 0;
+}
