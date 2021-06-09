@@ -20,8 +20,8 @@
 }
 
 @media (max-width: 685px) {
-	.btn-container {
-		display: block;
+	.recipe-header {
+		flex-wrap: wrap;
 	}
 }
 
