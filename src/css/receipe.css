@@ -19,15 +19,18 @@
 	align-items: center;
 }
 
-.recipe-row {
+@media (max-width: 685px) {
+	.btn-container {
+		display: block;
+	}
 }
 
 .recipe-label {
-  margin-right: 5px;
+	margin-right: 5px;
 }
-.recipe-instructions{
-  white-space: pre-wrap;
+.recipe-instructions {
+	white-space: pre-wrap;
 }
 .recipe-value {
-  font-weight: 300
+	font-weight: 300;
 }
